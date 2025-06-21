@@ -5,8 +5,7 @@ This project is a Python-based interactive web application designed to help scie
 ## Deployed Application
 
 A live version of this application can be accessed here:
-**[https://luke-benham-cytometry-app-ygdphs.streamlit.app//](https://luke-benham-cytometry-app-ygdphs.streamlit.app//)** 
-*(Note: This is a placeholder. You would replace this with the actual URL after deploying to Streamlit Community Cloud.)*
+**[https://luke-benham-cytometry-app-ygdphs.streamlit.app/](https://luke-benham-cytometry-app-ygdphs.streamlit.app/)** 
 
 ## Features
 
